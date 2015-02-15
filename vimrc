@@ -10,7 +10,7 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 set ruler
-set colorcolumn=81
+set colorcolumn=101
 set hlsearch
 let g:pep8_map='<leader>8'
 map <leader>c :let @/ = ""<CR>
